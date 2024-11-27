@@ -1,0 +1,38 @@
+1. ls
+Fungsi: Menampilkan daftar file dan direktori yang ada di dalam direktori saat ini.
+2. cd
+Fungsi: Berpindah ke direktori lain.
+3. cat
+Fungsi: Menampilkan isi dari sebuah file.
+4. find
+Fungsi: Mencari file atau direktori berdasarkan kriteria tertentu.
+5. file
+Fungsi: Menampilkan tipe atau jenis dari sebuah file.
+6. mv
+Fungsi: Memindahkan atau mengganti nama file atau direktori.
+7. cp
+Fungsi: Menyalin file atau direktori ke lokasi lain.
+8. nano
+Fungsi: Mengedit file teks menggunakan editor teks yang sederhana.
+9. touch
+Fungsi: Membuat file kosong baru atau memperbarui waktu akses/modifikasi file.
+10. chmod
+Fungsi: Mengubah hak akses file atau direktori.
+11. chown
+Fungsi: Mengubah pemilik dan grup file atau direktori.
+12. rm
+Fungsi: Menghapus file atau direktori.
+13. grep
+Fungsi: Mencari dan menampilkan baris yang sesuai dengan pola teks tertentu dalam file.
+14. sort
+Fungsi: Mengurutkan isi file atau daftar berdasarkan abjad atau kriteria tertentu.
+15. uniq
+Fungsi: Menghapus baris duplikat dari sebuah file atau input.
+16. strings
+Fungsi: Menampilkan string teks yang dapat dibaca dari file biner.
+17. mkdir
+Fungsi: Membuat direktori (folder) baru.
+18. tr
+Fungsi: Mengubah atau mengganti karakter dalam teks.
+19. base64
+Fungsi: Mengencode atau mendekode data menggunakan format Base64.
